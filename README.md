@@ -6,5 +6,7 @@ opencv
 mediapipe
 numpy 
 
+For details please refer [documentation!]https://github.com/adreejish/Gesture/blob/main/documentation.txt
+
 
        
