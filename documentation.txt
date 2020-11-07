@@ -1,6 +1,6 @@
 detecthands_multiprocess.det_hands(outq,outrq,outlq) accepts and writes to three queues:
-outrq- video stream with right hand keypoint mask 
-outlq- video stream with left hand keypoint mask 
+outrq- image from video stream with right hand keypoint mask 
+outlq- image from video stream left hand keypoint mask 
 outq - Python dictionary containing:
   
         thumbIsOpen : boolean. Defaults to False. True if Right thumb open
