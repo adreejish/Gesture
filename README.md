@@ -3,6 +3,7 @@ Hand tracking and keypoint detection using python and MediaPipe
 
 
 demo.ipynb
+
 ![img](https://github.com/adreejish/Gesture/blob/main/demohand.gif?raw=true)
 
 Dependencies:
