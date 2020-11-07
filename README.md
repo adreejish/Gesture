@@ -1,7 +1,7 @@
 # Gesture
 Hand tracking and keypoint detection using python and MediaPipe
 
-![img]https://github.com/adreejish/Gesture/blob/main/demohand.gif?raw=true
+![img](https://github.com/adreejish/Gesture/blob/main/demohand.gif?raw=true)
 
 Dependencies:
 opencv,
